@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
+//test comment
+
 // Import the contract to be tested
 import "../contracts/ContributionAttestation.sol";
 import "remix_tests.sol"; // Import the Remix testing library
