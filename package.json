@@ -1,0 +1,21 @@
+{
+  "name": "contributr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "ganache": "ganache --port 8545",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ganache": "^7.9.2",
+    "hardhat": "^2.22.4",
+    "truffle": "^5.7.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
